@@ -4,7 +4,7 @@ title: Kathryn Kong - Academic Portfolio
 ---
 ## Hello world
 
-![Featured Image](/assets/scenary.jpg)
+![Featured Image](/assets/scenary.JPG)
 
 - [Hello world](#hello-world)
 - [About me](#about-me)
