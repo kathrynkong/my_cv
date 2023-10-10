@@ -1,0 +1,52 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+
+    background: black;
+
+}
+
+header a.button {
+
+    background: green
+
+}
+
+aside a.button {
+
+    background: darkgreen
+
+}
+
+#main-content h2:before {
+
+    color: lightgreen;
+
+}
+
+#main-content h1:before {
+
+    color: lightgreen;
+
+}
+
+#main-content h3 {
+
+    color: lightgreen;
+
+  }
+
+  #main-content h4 {
+
+    color: lightgreen;
+
+  }
+
+  #main-content h6 {
+
+    color: lightgreen;
+
+  }
