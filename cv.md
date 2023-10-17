@@ -1,3 +1,7 @@
+---
+layout: default
+title: CV
+---
 **YINGZI KONG (Kathryn)**
 
 <Yingzi.kong@ucf.edu>
