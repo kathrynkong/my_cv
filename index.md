@@ -32,8 +32,7 @@ title: Kathryn Kong - Academic Portfolio
 
 ![Featured Image](/assets/scenary.JPG)
 
-- [Yingzi Kong](#yingzi-kong){: .no_toc}
-    - [PhD Student in T\&T of UCF](#phd-student-in-tt-of-ucf){: .no_toc}
+- [Navigation](#yingzi-kong){: .no_toc}
     - [About me](#about-me)
     - [Research Interests](#research-interests)
     - [Projects and Publications](#projects-and-publications)
