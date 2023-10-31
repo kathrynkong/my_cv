@@ -64,7 +64,9 @@ Embarking on my PhD journey in the T&T program, I merge my background in enginee
 #### Game Projects
 - Mato Anomalies. Jul. 2021 – Mar. 2023. 
   [Game Steam Link](https://store.steampowered.com/app/2024390/Mato_Anomalies/)
-  [Game Soundtrack Link](https://www.youtube.com/watch?v=ckAyVrzFkww) 
+  
+  **Game Soundtrack:**
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 ### Contact
 
