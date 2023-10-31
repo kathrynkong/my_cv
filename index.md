@@ -27,17 +27,19 @@
 </html>
 title: Kathryn Kong - Academic Portfolio
 ---
-## Hello world
+# Yingzi Kong
+## PhD Student in T&T of UCF
 
 ![Featured Image](/assets/scenary.JPG)
 
-- [Hello world](#hello-world)
-- [About me](#about-me)
-- [My Publications](#my-publications)
-- [My Classes](#my-classes)
-- [My Social Media Presence](#my-social-media-presence)
+- [Yingzi Kong](#yingzi-kong)
+  - [PhD Student in T\&T of UCF](#phd-student-in-tt-of-ucf)
+    - [About me](#about-me)
+    - [Research Interests](#research-interests)
+    - [Projects and Publications](#projects-and-publications)
+    - [My Social Media Presence](#my-social-media-presence)
 
-## About me
+### About me
 
 I'm here....
 
@@ -45,17 +47,20 @@ I'm here....
 - something else
 - idk
 
-## My Publications
+### Research Interests
 
 - One
 - Two
 - Three
 
-## My Classes
+### Projects and Publications
 
 - Intro
+- Game
 
 
-## My Social Media Presence
+### My Social Media Presence
 
 - [Bluesky](https://bsky.app/profile/yingzi.bsky.social)
+- [LinkedIIn](https://www.linkedin.com/in/kathryn-kong-531537159/)
+- [GitHub](https://github.com/kathrynkong)
