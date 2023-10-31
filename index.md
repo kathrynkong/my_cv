@@ -29,19 +29,20 @@ title: Kathryn Kong - Academic Portfolio
 ---
 <!-- omit in toc -->
 # Yingzi Kong
+<!-- omit in toc -->
 ## PhD Student in T&T of UCF
 
 ![Featured Image](/assets/scenary.JPG)
 
+<!-- omit in toc -->
 # Contents
-- [Contents](#contents)
-    - [About me](#about-me)
-    - [Research Interests](#research-interests)
-    - [Projects and Publications](#projects-and-publications)
-      - [Research Projects](#research-projects)
-      - [Game Projects](#game-projects)
-    - [Contact](#contact)
-    - [My Social Media Presence](#my-social-media-presence)
+- [About me](#about-me)
+- [Research Interests](#research-interests)
+- [Projects and Publications](#projects-and-publications)
+  - [Research Projects](#research-projects)
+  - [Game Projects](#game-projects)
+- [Contact](#contact)
+- [My Social Media Presence](#my-social-media-presence)
 
 ### About me
 
