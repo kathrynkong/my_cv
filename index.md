@@ -32,7 +32,7 @@ title: Kathryn Kong - Academic Portfolio
 <!-- omit in toc -->
 ## PhD Student in T&T of UCF
 
-![Featured Image](/assets/professionalimage.JPG)
+<img src="/assets/professionalimage.JPG" alt="Featured Image" width="33%" height="33%">
 
 <!-- omit in toc -->
 # Contents
