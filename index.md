@@ -32,8 +32,8 @@ title: Kathryn Kong - Academic Portfolio
 
 ![Featured Image](/assets/scenary.JPG)
 
-- [Yingzi Kong](#yingzi-kong)
-  - [PhD Student in T\&T of UCF](#phd-student-in-tt-of-ucf)
+- [Yingzi Kong](#yingzi-kong){: .no_toc}
+    - [PhD Student in T\&T of UCF](#phd-student-in-tt-of-ucf){: .no_toc}
     - [About me](#about-me)
     - [Research Interests](#research-interests)
     - [Projects and Publications](#projects-and-publications)
@@ -68,7 +68,6 @@ Embarking on my PhD journey in the T&T program, I merge my background in enginee
 ### Contact
 
 - Email: yingzi.kong@ucf.edu
-
 
 ### My Social Media Presence
 
