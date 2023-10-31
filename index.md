@@ -31,13 +31,21 @@ title: Kathryn Kong - Academic Portfolio
 ## PhD Student in T&T of UCF
 
 ![Featured Image](/assets/scenary.JPG)
+    <!-- This section contains the table of contents for the CV. -->
+
+    []: # FILEPATH: /Users/kathrynkong/Documents/GitHub/my_cv/index.md
+
+    ## Table of Contents
+
     - [About me](#about-me)
     - [Research Interests](#research-interests)
     - [Projects and Publications](#projects-and-publications)
-      - [Research Projects](#research-projects)
-      - [Game Projects](#game-projects)
+        - [Research Projects](#research-projects)
+        - [Game Projects](#game-projects)
     - [Contact](#contact)
     - [My Social Media Presence](#my-social-media-presence)
+
+    <!-- The table of contents provides links to the different sections of the CV, making it easier for readers to navigate through the document. -->
 
 ### About me
 
