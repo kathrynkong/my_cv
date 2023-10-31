@@ -66,7 +66,6 @@ Embarking on my PhD journey in the T&T program, I merge my background in enginee
   [Game Steam Link](https://store.steampowered.com/app/2024390/Mato_Anomalies/)
   [Game Soundtrack Link](https://www.youtube.com/watch?v=ckAyVrzFkww) 
   
-
 ### Contact
 
 - Email: yingzi.kong@ucf.edu
