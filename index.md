@@ -38,9 +38,6 @@ title: Kathryn Kong - Academic Portfolio
 # Contents
 - [About me](#about-me)
 - [Research Interests](#research-interests)
-- [Projects and Publications](#projects-and-publications)
-  - [Research Projects](#research-projects)
-  - [Game Projects](#game-projects)
 - [My Social Media Presence](#my-social-media-presence)
 - [Contact](#contact)
 
@@ -53,20 +50,6 @@ Embarking on my PhD journey in the T&T program, I merge my background in enginee
 - Video Game Narratives and Digital Storytelling, Video Game Localization
 - Machine Translation, Computer-assisted Language Learning (CALL), and Game-based Learning
 - Hate Speech on Social Media
-
-### Projects and Publications
-
-#### Research Projects
-
-- “ELLE The EndLess Learner” led by Emily Johnson, Asst. Professor of UCF. Oct. 2023 to present.
-- “Indirect Translation Research on Movie Subtitles – Based on Actor-Network Theory” led by Gun-Young Park, Ph.D. of HUFS. Sep. 2021 – Dec. 2021.
-
-#### Game Projects
-- Mato Anomalies. Jul. 2021 – Mar. 2023. 
-  [Game Steam Link](https://store.steampowered.com/app/2024390/Mato_Anomalies/)
-  
-  **Game Soundtrack:**
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ckAyVrzFkww?si=stJiVGpDbiskWZMO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### My Social Media Presence
 
