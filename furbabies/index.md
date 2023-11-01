@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: My Fur Babies
-permalink: /furbabies/
 ---
 
 # Welcome to the World of My Beloved Pets! 🐾
