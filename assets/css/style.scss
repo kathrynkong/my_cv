@@ -9,43 +9,17 @@ header {
 }
 
 header a.button {
-
-    background: green
-
+    background: navy;
 }
 
 aside a.button {
-
-    background: darkgreen
-
+    background: darkblue;
 }
 
-#main-content h2:before {
-
-    color: lightgreen;
-
+#main-content h2:before,
+#main-content h1:before,
+#main-content h3,
+#main-content h4,
+#main-content h6 {
+    color: yellow;
 }
-
-#main-content h1:before {
-
-    color: lightgreen;
-
-}
-
-#main-content h3 {
-
-    color: lightgreen;
-
-  }
-
-  #main-content h4 {
-
-    color: lightgreen;
-
-  }
-
-  #main-content h6 {
-
-    color: lightgreen;
-
-  }
