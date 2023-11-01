@@ -15,14 +15,14 @@ body {
 header {
     padding-top: 40px;
     padding-bottom: 40px;
-    font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
     background: url('{{ 'assets/banner.png' | relative_url }}') no-repeat center center fixed;
     background-size: cover;
     border-bottom: solid 1px #275da1;
 }
 
 header h1 {
-    color: #ffd700;
+    color: #6a5acd;
 }
 
 header a.button,
