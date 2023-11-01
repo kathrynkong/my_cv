@@ -4,22 +4,48 @@
 @import "{{ site.theme }}";
 
 header {
-    background: url('/assets/banner.png') no-repeat center center fixed;
+    background: url('{{ 'assets/banner.png' | relative_url }}') no-repeat center center fixed;
     background-size: cover;
 }
 
 header a.button {
-    background: green;
+
+    background: green
+
 }
 
 aside a.button {
-    background: darkgreen;
+
+    background: darkgreen
+
 }
 
-#main-content h2:before,
-#main-content h1:before,
-#main-content h3,
-#main-content h4,
-#main-content h6 {
+#main-content h2:before {
+
     color: lightgreen;
+
 }
+
+#main-content h1:before {
+
+    color: lightgreen;
+
+}
+
+#main-content h3 {
+
+    color: lightgreen;
+
+  }
+
+  #main-content h4 {
+
+    color: lightgreen;
+
+  }
+
+  #main-content h6 {
+
+    color: lightgreen;
+
+  }
