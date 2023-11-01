@@ -1,22 +1,91 @@
 @import "{{ site.theme }}";
 
+body {
+    background: linear-gradient(to right, #FFB6C1, #FFD700, #FF6347);
+    font-family: 'Helvetica', sans-serif;
+}
+
 header {
     background: url('/assets/banner.png') no-repeat center center fixed;
     background-size: cover;
+    text-align: center;
+    padding: 50px 0;
+}
+
+header h1, header h2 {
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 header a.button {
     background: green;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background 0.3s, transform 0.2s;
+}
+
+header a.button:hover {
+    background: darkgreen;
+    transform: scale(1.1);
 }
 
 aside a.button {
     background: darkgreen;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: block;
+    margin-bottom: 10px;
+    transition: background 0.3s, transform 0.2s;
 }
 
-#main-content h2:before,
-#main-content h1:before,
-#main-content h3,
-#main-content h4,
-#main-content h6 {
+aside a.button:hover {
+    background: green;
+    transform: scale(1.1);
+}
+
+#main-content h1, #main-content h2, #main-content h3, #main-content h4, #main-content h5, #main-content h6 {
+    position: relative;
+    padding-left: 40px;
+}
+
+#main-content h2:before {
+    content: '\f1b0'; /* FontAwesome Unicode for paw icon */
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 24px;
+    color: #FF6347;
+}
+
+#main-content h3:before {
+    content: '\f1b0'; /* FontAwesome Unicode for paw icon */
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 20px;
+    color: #FFD700;
+}
+
+#main-content h2, #main-content h3, #main-content h4, #main-content h5, #main-content h6 {
     color: lightgreen;
+}
+
+#main-content p {
+    text-align: justify;
+}
+
+#main-content p:lang(zh) {
+    font-family: 'Noto Sans SC', sans-serif;
+}
+
+#main-content p:lang(ko) {
+    font-family: 'Noto Sans KR', sans-serif;
 }
