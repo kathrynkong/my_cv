@@ -10,50 +10,42 @@ body {
     line-height: 1.5;
     color: #666;
     background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
-  }
+}
 
-  header {
+header {
     padding-top: 40px;
     padding-bottom: 40px;
-    font-family: 'New York', 'Helvetica Neue', Helvetica, Arial, serif;
+    font-family: 'Helvetica Neue', Helvetica, Arial, serif;
     background: url('{{ 'assets/banner.png' | relative_url }}') no-repeat center center fixed;
     background-size: cover;
     border-bottom: solid 1px #275da1;
-  }
-  
-  header h1 {
-    color: #a3c2f2; /* Changed to a lighter blue for better readability */
-  }
-  
-  header a.button {
-    background: navy;
-  }
-  
-  aside a.button {
-    background: darkblue;
-  }
-  
-  #main-content h1:before,
-  #main-content h2:before,
-  #main-content h3:before,
-  #main-content h4:before,
-  #main-content h5:before,
-  #main-content h6:before {
-    color: #6a5acd; /* Blue-like purple color */
-    content: "-"; /* Changed from / to - */
-  }
-  
-  #main-content h3,
-  #main-content h4,
-  #main-content h6 {
-    color: #6a5acd; /* Blue-like purple color */
-  }
+}
 
-  nav {
-    font-family: 'New York', Arial, sans-serif;
-  }
-  
-  nav a::before {
-    content: "🐾 "; /* Cute paw emoji */
-  }
-  
+header h1 {
+    color: #ffd700;
+}
+
+header a.button,
+aside a.button {
+    background: #add8e6;
+}
+
+#main-content h1:before,
+#main-content h2:before,
+#main-content h3:before,
+#main-content h4:before,
+#main-content h5:before,
+#main-content h6:before {
+    color: #6a5acd;
+    content: "-";
+}
+
+#main-content h3,
+#main-content h4,
+#main-content h6 {
+    color: #6a5acd;
+}
+
+nav a::before {
+    content: "🐾 ";
+}
