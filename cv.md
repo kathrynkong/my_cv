@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CV
+title: My Personal CV
 ---
 **YINGZI KONG (Kathryn)**
 
