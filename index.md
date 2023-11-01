@@ -41,8 +41,8 @@ title: Kathryn Kong - Academic Portfolio
 - [Projects and Publications](#projects-and-publications)
   - [Research Projects](#research-projects)
   - [Game Projects](#game-projects)
-- [Contact](#contact)
 - [My Social Media Presence](#my-social-media-presence)
+- [Contact](#contact)
 
 ### About me
 
@@ -68,12 +68,12 @@ Embarking on my PhD journey in the T&T program, I merge my background in enginee
   **Game Soundtrack:**
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ckAyVrzFkww?si=stJiVGpDbiskWZMO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Contact
-
-- Email: yingzi.kong@ucf.edu
-
 ### My Social Media Presence
 
 - [Bluesky](https://bsky.app/profile/yingzi.bsky.social)
 - [LinkedIIn](https://www.linkedin.com/in/kathryn-kong-531537159/)
 - [GitHub](https://github.com/kathrynkong)
+
+### Contact
+
+- Email: yingzi.kong@ucf.edu
