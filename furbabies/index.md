@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gaming Experience
+title: My Fur Babies
 ---
 
 # Gaming Experience
