@@ -17,7 +17,7 @@ Bugatti is a Devon Rex with super fast speed. He traveled all the way from China
 
 ## Cherry: The Sweet Sister 🐱
 
-![Cherry](../assets/ch.jpg)
+![Cherry](../assets/cherry.jpg)
 
 Cherry is a Domestic Long Hair with a gentle soul. I adopted her from a shelter in Tampa. Her long, silky fur and sweet purrs make her the perfect cuddle buddy. She is the fattest and biggest in the family. 🌸
 
