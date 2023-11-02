@@ -54,4 +54,11 @@ nav a::before {
     margin-bottom: 20px;
     font-size: 0.9em;
   }
-  
+
+#sidebar .button {
+  padding: 5px 10px; /* Adjust the padding values as needed */
+  font-size: 0.9em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
