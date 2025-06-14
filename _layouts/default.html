@@ -58,9 +58,13 @@
   <div class="inner clearfix">
     <section id="main-content">
       <div id="breadcrumb">
-        <a href="{{ '/' | absolute_url }}">Home</a> &gt;
-        <a href="{{ '/current-section/' | absolute_url }}">Current Section</a> &gt;
-        Current Page
+        <a href="{{ '/' | absolute_url }}">Home</a>
+        {% if page.section %}
+          &gt; <a href="#">{{ page.section }}</a>
+        {% endif %}
+        {% if page.title %}
+          &gt; {{ page.title }}
+        {% endif %}
       </div>      
       <div class="welcome-message">
         <p class="welcome-text">Welcome to my academic journey！</p>
