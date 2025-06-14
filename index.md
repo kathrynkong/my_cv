@@ -25,17 +25,17 @@
         </footer>
     </body>
 </html>
+---
+layout: default
 title: Kathryn Kong - Academic Portfolio
 ---
-<!-- omit in toc -->
+
 # Yingzi Kong
-<!-- omit in toc -->
-## PhD Student in T&T of UCF
+## PhD Student in T&T at UCF
 
 ![Featured Image](/assets/florida.jpg)
 
-<!-- omit in toc -->
-# Contents
+## Contents
 - [About me](#about-me)
 - [Research Interests](#research-interests)
 - [My Social Media Presence](#my-social-media-presence)
