@@ -21,6 +21,13 @@ header {
     border-bottom: solid 1px #275da1;
 }
 
+/* ✅ Style the banner description text */
+header p {
+    color: #6a5acd; /* Change to any color you like */
+    font-size: 1.1em;
+    font-style: italic;
+}
+
 header h1 {
     color: #6a5acd;
 }
@@ -53,7 +60,7 @@ nav a::before {
 #breadcrumb {
     margin-bottom: 20px;
     font-size: 0.9em;
-  }
+}
 
 #sidebar .button {
     padding: 5px 10px;
